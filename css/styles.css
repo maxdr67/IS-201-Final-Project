@@ -3121,6 +3121,8 @@ a.btn:not(.btn-primary):visited {
   --bs-btn-disabled-bg: transparent;
   --bs-btn-disabled-border-color: #212529;
   --bs-gradient: none;
+  font-weight: 700;
+  font-size: 1rem;
 }
 
 .btn-link {
